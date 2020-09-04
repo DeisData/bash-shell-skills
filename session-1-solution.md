@@ -1,3 +1,4 @@
+```
 # Hashtag denotes a comment. The line will be skipped
 
 # Change to your desktop 
@@ -20,3 +21,4 @@ nano 2020-06-09-data.txt
 
 # Let's edit and add information to another.
 nano 2020-06-09-calibration.txt
+```
