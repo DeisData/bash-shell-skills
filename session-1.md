@@ -216,9 +216,7 @@ Before heading on a trip, you want to back up your data and send some datasets t
 
 ```
 
-<details>
-Go to [example solution](session-1-soln.md).
-</details>
+When you're ready, see a possible solution at [example solution](session-1-solution.md).
 
 
 ### References
