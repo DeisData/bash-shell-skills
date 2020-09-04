@@ -3,14 +3,14 @@
 
 ## Challenge Questions
 1. Does type case matter?  Is there a difference between `ls -s` and `ls -S`?
+
 2. Do spaces matter?  Is there a difference between `ls-F` and `ls -F`?
 
 **Explore more `ls` flags.**  
-3. What does `-l` option do? What if you use `-l` and `-h`?
 
-4. The default `ls` lists contents in alphabetical order.  What option do I use to see them by time of last change?
+5. The default `ls` lists contents in alphabetical order.  What option do I use to see them by time of last change?
 
-5. Moving files.  We accidentally put the files `sucrose.dat` and `maltose.dat` into the wrong folder, `analyzed/`.  Fill in the blanks to move these files into the `raw/` folder.
+6. Moving files.  We accidentally put the files `sucrose.dat` and `maltose.dat` into the wrong folder, `analyzed/`.  Fill in the blanks to move these files into the `raw/` folder.
 ```
 $ ls -F
   analyzed/  raw/
@@ -28,7 +28,7 @@ $ mv sucrose.dat matose.dat ___/___
   Recall that .. refers to the parent directory (i.e. one above the current directory).
 </details>
 
-6. Renaming Files. We mispelled a filename!  Which of the following commands will correct our mistake?
+7. Renaming Files. We mispelled a filename!  Which of the following commands will correct our mistake?
     - a. `cp statstics.txt statistics.txt`
     - b. `mv statstics.txt statistics.txt`
     - c. `mv statistics.txt . `
@@ -41,25 +41,25 @@ $ mv sucrose.dat matose.dat ___/___
     (c.) and (d.) will not work. Remember . is the current directory.</p>
 </details>
 
-7. Removal. What happens when we execute `rm -i thesis/finaldraft.txt`? Why would we want this protection when using `rm`?
+8. Removal. What happens when we execute `rm -i thesis/finaldraft.txt`? Why would we want this protection when using `rm`?
 <details>
   <summary>Solution</summary>
   The program will confirm that we want to delete the thesis final draft file.  Remember, deletion is forever!  There is no trash can or recycle bin.
 </details>
 
-8. Removal. What is wrong with the command `rm -i thesis`?
+9. Removal. What is wrong with the command `rm -i thesis`?
 <details>
   <summary>Solution</summary>
   The remove command will not act on a directory unless the recursive option (-r)is given. 
 </details>
 
-9. Removal. What is wrong with the command `rm -r thesis`?
+10. Removal. What is wrong with the command `rm -r thesis`?
 <details>
   <summary>Solution</summary>
   This remove command will delete the directory thesis and all its contents, but we forgot to check for confirmation with the interaction option (-i).  Remember, deletion is permanent!
 </details>
 
-10. Wildcards.  Which of the following matches the file names `ethane.dat` and `methane.dat`?
+11. Wildcards.  Which of the following matches the file names `ethane.dat` and `methane.dat`?
    - a. `ls ?ethane.dat`
    - b. `ls *ethane.dat`
    - c. `ls ???ane.dat`
