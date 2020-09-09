@@ -14,3 +14,6 @@ Bash a well-established and reliable command line interface.  While we may be ha
 - [Session 2](session-2.md): Pipes, Filters and Loops
 - Session 3: Shell Scripts and Searching
 - Extended skills
+
+## Resources
+- Members of the Brandeis community can [request a consultation](https://calendar.library.brandeis.edu/appointments/scidata) with Dr. Claire Pontbriand, Data Analysis Specialist for Science
