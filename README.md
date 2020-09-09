@@ -12,13 +12,16 @@ Bash a well-established and reliable command line interface.  While we may be ha
   - [Navigating with Bash](https://youtu.be/RMSmriZq1JU) (4 minute video)
   - [Working with Bash](https://youtu.be/yigrZNuu5lE) (6 minute video)
   - [Notes and challenge questions](session-1.md)
-- Session 2: Pipes, Filters and Loops
+- Session 2: Pipes, Filters, Redirects and Loops
+  - [Pipes, Filters, and Redirects](https://youtu.be/GqS3FXxWMb8) (8 minute video)
+  - [Loops](https://youtu.be/la3EG8BbxYE) (8 minute video)
   - [Notes and challenge questions](session-2.md)
 - Session 3: Shell Scripts and Searching
+  - Materials to come next week.  Session is Thurs 9-17.
 - Extended skills
 
 ## Resources
 - Members of the Brandeis community can [request a consultation](https://calendar.library.brandeis.edu/appointments/scidata) with Dr. Claire Pontbriand, Data Analysis Specialist for Science
+- [YouTube Playlist of videos](https://www.youtube.com/playlist?list=PL1FKvuJFWIghz5GgBIji7YDuTovUE32o7)
 
-
-[< Brandeis Library Data Services](https://deisdata.github.io)
+[**< Brandeis Library Data Services**](https://deisdata.github.io)
