@@ -11,9 +11,3 @@
 - [Session 2](session-2.md): Pipes, Filters and Loops
 - Session 3: Shell Scripts and Searching
 - Extended skills: 
-
-## Video Tutorials
-- Pipes and Filters
-- Loops
-- Shell Scripts
-- Searching
