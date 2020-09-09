@@ -3,6 +3,10 @@ The idea of linking together programs is why Unix has been so successful.
 Instead of creating enormous programs that try to do many  different things, we focus on lots of simple tools that work well with each other.
 We improve productivity through automation -- with loops!
 
+## Video Tutorials:
+  - [Pipes, Filters, and Redirects](https://youtu.be/GqS3FXxWMb8) (8 minute video)
+  - [Loops](https://youtu.be/la3EG8BbxYE) (8 minute video)
+  
 ### Challenge Questions:
 1. In our current directory, we want to find the three files which have the least number of lines.  Which command listed below would work?
  - a.  `$  wc -l * > sort -n > head -n 3`
