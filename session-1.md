@@ -1,5 +1,8 @@
 # Session 1:  Shell for Navigating to and Working with Files and Directories
 
+## Video tutorials
+  - [Navigating with Bash](https://youtu.be/RMSmriZq1JU) (4 minute video)
+  - [Working with Bash](https://youtu.be/yigrZNuu5lE) (6 minute video)
 
 ## Challenge Questions
 1. Does type case matter?  Is there a difference between `ls -s` and `ls -S`?
