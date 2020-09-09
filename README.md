@@ -24,4 +24,6 @@ Bash a well-established and reliable command line interface.  While we may be ha
 - Members of the Brandeis community can [request a consultation](https://calendar.library.brandeis.edu/appointments/scidata) with Dr. Claire Pontbriand, Data Analysis Specialist for Science
 - [YouTube Playlist of videos](https://www.youtube.com/playlist?list=PL1FKvuJFWIghz5GgBIji7YDuTovUE32o7)
 
+*Materials for this workshop are sourced from [Software Carpentry: Unix Shell](http://swcarpentry.github.io/shell-novice/).*
+
 [**< Brandeis Library Data Services**](https://deisdata.github.io)
