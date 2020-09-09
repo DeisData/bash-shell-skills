@@ -8,12 +8,17 @@ Bash a well-established and reliable command line interface.  While we may be ha
 - Workshop [dataset](data-shell.zip)
 
 ## Notes, Challenges, and Video Tutorials
-- [Session 1](session-1.md): Navigating and Working with Files and Directories
+- Session 1: Navigating and Working with Files and Directories
   - [Navigating with Bash](https://youtu.be/RMSmriZq1JU) (4 minute video)
   - [Working with Bash](https://youtu.be/yigrZNuu5lE) (6 minute video)
-- [Session 2](session-2.md): Pipes, Filters and Loops
+  - [Notes and challenge questions](session-1.md)
+- Session 2: Pipes, Filters and Loops
+  - [Notes and challenge questions](session-2.md)
 - Session 3: Shell Scripts and Searching
 - Extended skills
 
 ## Resources
 - Members of the Brandeis community can [request a consultation](https://calendar.library.brandeis.edu/appointments/scidata) with Dr. Claire Pontbriand, Data Analysis Specialist for Science
+
+
+[< Brandeis Library Data Services](https://deisdata.github.io)
