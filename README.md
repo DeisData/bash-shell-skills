@@ -7,6 +7,9 @@ Bash a well-established and reliable command line interface.  While we may be ha
 - [Instructions for Accessing your Bash Shell](https://carpentries.github.io/workshop-template/#shell)
 - Workshop [dataset](data-shell.zip)
 
+## Workshop Instructions
+To participate in this workshop, preview each video tutorial and scan the session notes.  During the workshop we will quickly review of new commands, and then spend the time working through session challenge questions together.
+
 ## Notes, Challenges, and Video Tutorials
 - Session 1: Navigating and Working with Files and Directories
   - [Navigating with Bash](https://youtu.be/RMSmriZq1JU) (4 minute video)
