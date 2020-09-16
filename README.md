@@ -20,7 +20,9 @@ To participate in this workshop, preview each video tutorial and scan the sessio
   - [Loops](https://youtu.be/la3EG8BbxYE) (8 minute video)
   - [Notes and challenge questions](session-2.md)
 - Session 3: Shell Scripts and Searching
-  - Materials to come next week.  Session is Thurs 9-17.
+  - [Search with Bash](https://youtu.be/YwQHFgCeV1c) (6 minute video)
+  - [Shell scripts](https://youtu.be/fPh1AQ85ORw) (7 minute video)
+  - [Notes and challenge questions](session-3.md)
 - Extended skills
 
 ## Resources
