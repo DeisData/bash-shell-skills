@@ -124,7 +124,7 @@ done
 ```
 
 ## Fun Resources
-- [Bash Help Sheet](https://www.shell-tips.com/sheets/bash-help-sheet.pdf) has shortcuts for quick navigating and editing in your shell
-- [Mastering Bash with Tips and Tricks](https://www.shell-tips.com/bash/) has some great examples of how scripts can be used in a variety of ways.v
+- [Bash Help Sheet](https://www.shell-tips.com/cheat-sheets/bash-quick-references/#gsc.tab=0) has shortcuts for quick navigating and editing in your shell
+- [Mastering Bash with Tips and Tricks](https://www.shell-tips.com/#gsc.tab=0) has some great examples of how scripts can be used in a variety of ways.v
 - [30 Bash Script Examples](https://linuxhint.com/30_bash_script_examples/) depicts some basic to more complex scripting examples
 - [StackOverflow thread of most powerful examples of Unix Commands or Scripts every programmer should know](https://stackoverflow.com/questions/1102986/most-powerful-examples-of-unix-commands-or-scripts-every-programmer-should-know) is old but has some great examples.  In general, StackOverflow is a great community for technical questions.
